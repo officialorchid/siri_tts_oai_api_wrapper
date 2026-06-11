@@ -92,5 +92,3 @@ Once completed, you will find your standalone application in the `dist/` directo
 ./dist/siri_oai_api
 
 ```
-
-```
