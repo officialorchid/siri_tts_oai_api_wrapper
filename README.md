@@ -1,4 +1,3 @@
-```markdown
 # macOS Siri TTS OpenAI-Compatible API Wrapper
 
 This project exposes the native macOS speech synthesizer (`NSSpeechSynthesizer`) as a local, OpenAI-compatible text-to-speech (TTS) API endpoint. 
@@ -91,6 +90,4 @@ Once completed, you will find your standalone application in the `dist/` directo
 ```bash
 ./dist/siri_oai_api
 
-```
-```
 ```
