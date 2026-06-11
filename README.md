@@ -91,3 +91,12 @@ Once completed, you will find your standalone application in the `dist/` directo
 ./dist/siri_oai_api
 
 ```
+### 4. Environment Setup
+
+Before running the application, configure your shell environment to point to the local server by running the following commands:
+
+```bash
+export OPENAI_BASE_URL="http://127.0.0.1:8000/v1"
+export OPENAI_API_KEY="no-need"
+```
+
